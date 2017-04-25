@@ -54,7 +54,7 @@ i {
 .icon-vpn-error:before {
   content: "\e909";
 }
-.icon-vpn-tunnled:before {
+.icon-vpn-tunneled:before {
   content: "\e90a";
 }
 .icon-watch:before {

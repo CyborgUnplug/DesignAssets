@@ -305,7 +305,7 @@
         "isMulticolor2": false,
         "grid": 0,
         "tags": [
-          "vpn-tunnled"
+          "vpn-tunneled"
         ]
       },
       "attrs": [
@@ -314,7 +314,7 @@
       "properties": {
         "order": 243,
         "id": 5,
-        "name": "vpn-tunnled",
+        "name": "vpn-tunneled",
         "prevSize": 32,
         "code": 59658
       },
@@ -447,8 +447,8 @@
   ],
   "height": 1024,
   "metadata": {
-    "name": "tt-icons",
-    "url": "https://transparencytoolkit.org",
+    "name": "cu-icons",
+    "url": "https://cyborgunplug.net",
     "designer": "Brennan Novak",
     "designerURL": "https://brennannovak.com",
     "license": "Public Domain"
@@ -464,7 +464,7 @@
         "fontFamily": "tt-icons",
         "majorVersion": 1,
         "minorVersion": 0,
-        "fontURL": "https://transparencytoolkit.org",
+        "fontURL": "https://cyborgunplug.net",
         "description": "Fonts for interfaces",
         "designer": "Brennan Novak",
         "designerURL": "https://brennannovak.com",
