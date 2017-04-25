@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="98.918px"
+   height="100px"
+   viewBox="0 0 98.918 100"
+   enable-background="new 0 0 98.918 100"
+   xml:space="preserve"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="wifi-error.svg"><metadata
+     id="metadata13"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs11" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1548"
+     inkscape:window-height="1003"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="3.1988748"
+     inkscape:cx="52.324919"
+     inkscape:cy="43.58481"
+     inkscape:window-x="197"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><path
+     d="M 47.46875 18.90625 C 29.944128 19.228865 12.584166 26.040833 -0.71875 39.34375 L 9.3125 49.40625 C 31.28437 27.434379 67.132082 27.632082 89.34375 49.84375 L 99.28125 39.875 C 84.965334 25.55908 66.123994 18.562819 47.46875 18.90625 z M 35.1875 46.875 C 28.247482 49.030587 21.733017 52.829483 16.25 58.3125 L 26 68.0625 C 29.047604 65.014896 32.537574 62.685253 36.28125 61.09375 L 35.1875 46.875 z M 63.34375 46.96875 L 62.25 61.15625 C 66.097229 62.793757 69.700136 65.168885 72.84375 68.3125 L 82.5 58.65625 C 76.931269 53.087519 70.345767 49.193444 63.34375 46.96875 z "
+     id="path5" /><g
+     style="font-size:40px;font-style:normal;font-variant:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Semi-Light"
+     id="text3001"
+     transform="matrix(1.2102681,0,0,1.2102681,-10.587896,3.7031909)"><path
+       d="m 53.231732,56.599528 -7.03125,0 -0.996093,-26.255494 9.023437,0 -0.996094,26.255494 m -3.515625,4.628906 c 1.425772,8e-6 2.568349,0.41993 3.427735,1.259765 1.663403,1.951207 1.696238,4.746744 0,6.416016 -2.075441,1.581997 -5.040456,1.681998 -6.855469,0 -1.626376,-1.94467 -1.661165,-4.714826 0,-6.386719 0.878901,-0.859367 2.021478,-1.289054 3.427734,-1.289062"
+       style="font-size:60px;font-weight:bold;fill:#000000;font-family:Roboto;-inkscape-font-specification:Roboto Bold"
+       id="path3776"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" /></g></svg>
