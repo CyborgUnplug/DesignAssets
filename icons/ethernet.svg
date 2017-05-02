@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="ethernet.svg">
+   sodipodi:docname="ethernet-nu.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
+     inkscape:zoom="0.7"
      inkscape:cx="197.97075"
-     inkscape:cy="185.39536"
+     inkscape:cy="144.98926"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,14 +54,8 @@
      id="layer1"
      transform="translate(0,-197)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:1.41420996;stroke-dasharray:none;stroke-opacity:1"
-       d="m 43.42608,212.09347 v 6.35 H 27.528858 v 7.05021 H 13.630999 v 50.53541 H 87.931891 V 225.49368 H 74.033513 v -7.05021 H 59.194627 v -6.35 z"
-       id="rect5078"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
-    <path
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:1.41420996;stroke-dasharray:none;stroke-opacity:1"
-       d="m 43.426083,214.21015 h 15.76855 v 6.35 h 14.83888 v 7.05022 h 13.89838 v 48.41875 h -10.09292 v -10.17716 h -7.14169 v 10.17716 h -8.23153 v -10.17716 h -7.14169 v 10.17716 h -8.23102 v -10.17716 h -7.1422 v 10.17716 H 31.719821 V 265.8778 h -7.1422 v 10.15132 H 13.631002 v -48.41875 h 13.897861 v -7.05022 h 15.89722 z"
+       d="m 42.739019,211.89489 v 6.98144 H 25.261001 v 7.75128 H 9.9811538 v 53.23344 H 21.487123 V 268.7003 h 7.852412 v 11.16075 h 9.57867 V 268.6719 h 7.85241 v 11.18915 h 9.049506 V 268.6719 h 7.851844 v 11.18915 h 9.05007 V 268.6719 h 7.851843 v 11.18915 H 91.670432 V 226.62761 H 76.390017 v -7.75128 H 60.075571 v -6.98144 z"
        id="rect5069-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
